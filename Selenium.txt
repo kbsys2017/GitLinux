@@ -1,8 +1,6 @@
 Object Properties
 Sample Text added
 added another line
-<<<<<<< Updated upstream
 Test File
-=======
 Added 4th line
->>>>>>> Stashed changes
+
